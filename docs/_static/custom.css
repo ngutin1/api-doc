@@ -1,0 +1,38 @@
+/* Custom styling for NY Assembly API docs */
+
+/* Style the demo key callout */
+.note {
+    background-color: #e7f3e7;
+    border-left: 4px solid #28a745;
+}
+
+/* Code blocks */
+.highlight {
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+/* API endpoint styling */
+code.literal {
+    background-color: #f0f0f0;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+}
+
+/* Tables */
+table.docutils {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.docutils th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    padding: 8px;
+}
+
+table.docutils td {
+    padding: 8px;
+    border-bottom: 1px solid #dee2e6;
+}
