@@ -1,7 +1,7 @@
 NY Assembly Transcript API Documentation
 =========================================
 
-Welcome to the NY Assembly Transcript API - a comprehensive database of New York State Assembly floor transcripts, members, and legislative interactions.
+This is a NY Assembly Transcript API with comprehensive database of New York State Assembly floor transcripts, members, and legislative interactions.
 
 .. note::
    **Demo API Key**: ``drt7AfZlJqLxrVtNXBNxSd03rJzqNXkPinTDWEfn0IU``
@@ -187,9 +187,3 @@ Special Thanks
 
 * **New York State Assembly** for providing public access to legislative transcripts
 * **Read the Docs** for documentation hosting
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
