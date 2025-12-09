@@ -339,7 +339,7 @@ See :doc:`../rate-limits` for more information.
 Alternative: Use Segments
 -------------------------
 
-For most use cases, consider using the :doc:`segments` endpoint instead:
+For most use cases, consider using the :endpoints:`segments` endpoint instead:
 
 * Returns parsed, structured data instead of raw text
 * Links statements to specific members
@@ -347,4 +347,4 @@ For most use cases, consider using the :doc:`segments` endpoint instead:
 * More efficient for analysis
 * Smaller response sizes
 
-See :doc:`segments` for details.
+See :endpoints:`segments` for details.
