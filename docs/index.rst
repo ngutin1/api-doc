@@ -11,7 +11,7 @@ Welcome to the NY Assembly Transcript API - a comprehensive database of New York
 .. raw:: html
 
    <div style="background-color: #e7f3e7; padding: 15px; border-radius: 5px; margin: 20px 0;">
-       <h3 style="margin-top: 0;">🟢 API Status</h3>
+       <h3 style="margin-top: 0;"> API Status</h3>
        <p><strong>Base URL:</strong> <code>http://nyassembly.duckdns.org:8888</code></p>
        <p><strong>Status:</strong> <span style="color: green; font-weight: bold;">● Online</span></p>
        <p><strong>Version:</strong> 1.0</p>
